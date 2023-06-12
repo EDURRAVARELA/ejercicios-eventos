@@ -1,5 +1,17 @@
-.cuadrado, .cuadradoDos {
+.cuadrado{
     background-color: grey;
     height: 4rem;
     width: 4rem;
+}
+.cuadradoDos{
+    background-color: grey;
+    height: 4rem;
+    width: 9.2rem;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 10rem;
 }
